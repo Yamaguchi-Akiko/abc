@@ -129,8 +129,13 @@ footer {
 @media screen and (max-width:900px){
 .container {
     display: block;
-    text-align: center;
     
+}
+.About {
+    text-align: center;
+}
+p {
+    font-size: 13.9px;
 }
 .Bottom {
     display: block;
@@ -139,14 +144,17 @@ footer {
 }
 .bottom {
     display: block;
+    text-align: center;
 }
 .container2{
     text-align: left;
-    width: 85%;
+    width: 90%;
+    margin: 0 auto;
 }  
 .bi {
     width: 85%;
     margin-left: 5%;
+    margin: 0 auto;
     
 }
 .title2 {
